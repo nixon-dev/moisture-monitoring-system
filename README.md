@@ -3,7 +3,7 @@
 A smart irrigation system using an ESP32 module to monitor soil moisture and automate water release for efficient plant care.
 
 
-> 🚀 This project was developed on my College Years, for RDET of Quirino State University. I only built the system using PHP/HTML/JS/C++ for ESP32.
+> 🚀 This project was developed during my college years for the RDET Office at Quirino State University. I built the system using PHP, HTML, JavaScript, and C++ for the ESP32 module.
 
 ---
 
