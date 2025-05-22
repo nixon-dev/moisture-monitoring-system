@@ -43,6 +43,6 @@ A smart irrigation system using an ESP32 module to monitor soil moisture and aut
         $dbhost = 'localhost';
       ```
  6. **Start your local server**
-      Use XAMPP or any local server stack to serve the project on localhost
+      <br><h5>Use XAMPP or any local server stack to serve the project on localhost</h5>
 
 
