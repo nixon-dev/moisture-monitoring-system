@@ -1,6 +1,6 @@
 <?php
 include('db_conn.php');
-define('SENDINBLUE_API_KEY', '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');
+define('SENDINBLUE_API_KEY', '#');
 // Sendinblue API endpoint
 define('SENDINBLUE_API_ENDPOINT', 'https://api.sendinblue.com/v3/smtp/email');
 
