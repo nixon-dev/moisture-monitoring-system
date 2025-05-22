@@ -1,4 +1,4 @@
-# 📄 Soil Moisture Monitoring System using ESP32 Module
+# 🪱💦 Soil Moisture Monitoring System using ESP32 Module
 
 A smart irrigation system using an ESP32 module to monitor soil moisture and automate water release for efficient plant care.
 
@@ -24,7 +24,9 @@ A smart irrigation system using an ESP32 module to monitor soil moisture and aut
 - **Database:** MySQL
 - **ESP32**
   - Soil Moisture Sensor
-  - Relays 
+  - Relays
+
+
   
 
 ## 🔧 Installation
