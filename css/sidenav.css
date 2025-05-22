@@ -1,0 +1,43 @@
+
+.has-fixed-sidenav .fixed-chart {
+    left: 300px
+  }
+  
+  @media only screen and (max-width: 992px) {
+    .has-fixed-sidenav .fixed-chart {
+      left: 0
+    }
+  }
+  
+  @media only screen and (min-width: 993px) {
+    body.has-fixed-sidenav {
+      padding-left: 300px
+    }
+  
+    .container {
+      width: 90%
+    }
+
+    body.has-fixed-sidenav nav.navbar .brand-logo {
+      position: absolute;
+      left: -29%;
+      transform: translateX(-50%)
+    }
+  }
+  
+  @media only screen and (min-width: 993px) {
+    .has-fixed-sidenav .navbar-fixed nav.navbar {
+      width: calc(100% - 300px);
+      left: 300px
+    }
+  
+    body:not(.has-fixed-sidenav) nav a.sidenav-trigger {
+      display: block
+    }
+  
+    body:not(.has-fixed-sidenav) nav.navbar .brand-logo {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%)
+    }
+  } 
